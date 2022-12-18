@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /page32697126.html
+Disallow: /shapka
+Disallow: /page32697254.html
+Disallow: /podval
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: http://protokol.novocherkassk.tilda.ws/sitemap.xml
+Host: protokol.novocherkassk.tilda.ws
